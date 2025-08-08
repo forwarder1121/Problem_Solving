@@ -43,7 +43,7 @@
 | 01  | [0x05](https://www.acmicpc.net/workbook/view/7309)  | 스택                      | 🔄 |             |             |             |
 | 02  | [0x06](https://www.acmicpc.net/workbook/view/7310)  | 큐                        | ⏳ |             |             |             |
 | 03  | [0x07](https://www.acmicpc.net/workbook/view/7311)  | 덱                        | ⏳ |             |             |             |
-| 04  | [0x09](https://www.acmicpc.net/workbook/view/7313)  | BFS                       | ⏳ |  |             |             |
+| 04  | [0x09](https://www.acmicpc.net/workbook/view/7313)  | BFS                       | ⏳ |             |             |             |
 | 05  | [0x0A](https://www.acmicpc.net/workbook/view/7314)  | DFS                       | ⏳ |             |             |             |
 | 06  | [0x0B](https://www.acmicpc.net/workbook/view/7314)  | 재귀                      | ⏳ |             |             |             |
 | 07  | [0x0D](https://www.acmicpc.net/workbook/view/7316)  | 시뮬레이션                | ⏳ |             |             |             |
