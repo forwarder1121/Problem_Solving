@@ -45,7 +45,7 @@
 
 | No. | 챕터 | 주제                      | 상태  | 1회독       | 2회독       | 3회독       |
 |-----|-------|---------------------------|--------|-------------|-------------|-------------|
-| 01  | [0x05](https://www.acmicpc.net/workbook/view/7309)  | 스택                      | 🔄 |      🥈       |             |             | 스택은 "지금 처리할 수 없는 것들을 보류하고, 나중에 정확히 다시 꺼내는 사고의 기술"
+| 01  | [0x05](https://www.acmicpc.net/workbook/view/7309)  | 스택   ( "지금 처리할 수 없는 것들을 보류하고, 나중에 정확히 다시 꺼내는 사고의 기술")                   | 🔄 |      🥈       |             |             | 
 | 02  | [0x06](https://www.acmicpc.net/workbook/view/7310)  | 큐                        | ⏳ |             |             |             |
 | 03  | [0x07](https://www.acmicpc.net/workbook/view/7311)  | 덱                        | ⏳ |             |             |             |
 | 04  | [0x09](https://www.acmicpc.net/workbook/view/7313)  | BFS                       | ⏳ |             |             |             |
