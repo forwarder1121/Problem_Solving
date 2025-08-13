@@ -35,37 +35,35 @@
 | ⏳ 미시작          | `⏳`   | 아직 시작하지 않음           |
 
 ### 세부 상태 이모지  
-> 🥈 실버 난이도 풀이 완료	   
-> 🥇 골드 난이도 풀이 완료    
-> 💎 플래티넘 난이도 풀이 완료    
+> 🥈 실버 난이도 풀이 완료 / 🥇 골드 난이도 풀이 완료 / 💎 플래티넘 난이도 풀이 완료
 
 ---
 
 ## 📌 바킹독 알고리즘 진도표
 
-| No. | 챕터 | 주제                      | 상태  | 1회독       | 2회독       | 3회독       |
-|-----|-------|---------------------------|--------|-------------|-------------|-------------|
-| 01  | [0x05](https://www.acmicpc.net/workbook/view/7309)  | 스택   (지금 처리할 수 없는 것들을 보류하고, 나중에 다시 꺼내는 사고의 기술)                   | 🔄 |      🥈 🥇      |             |             | 
-| 02  | [0x06](https://www.acmicpc.net/workbook/view/7310)  | 큐                        | ⏳ |             |             |             |
-| 03  | [0x07](https://www.acmicpc.net/workbook/view/7311)  | 덱                        | ⏳ |             |             |             |
-| 04  | [0x09](https://www.acmicpc.net/workbook/view/7313)  | BFS                       | ⏳ |             |             |             |
-| 05  | [0x0A](https://www.acmicpc.net/workbook/view/7314)  | DFS                       | ⏳ |             |             |             |
-| 06  | [0x0B](https://www.acmicpc.net/workbook/view/7314)  | 재귀                      | ⏳ |             |             |             |
-| 07  | [0x0D](https://www.acmicpc.net/workbook/view/7316)  | 시뮬레이션                | ⏳ |             |             |             |
-| 08  | [0x0C](https://www.acmicpc.net/workbook/view/7315)  | 백트래킹                  | ⏳ |             |             |             |
-| 09  | [0x11](https://www.acmicpc.net/workbook/view/7320)  | 그리디                    | ⏳ |             |             |             |
-| 10  | [0x13](https://www.acmicpc.net/workbook/view/8400)  | 이분 탐색                 | ⏳ |             |             |             |
-| 11  | [0x14](https://www.acmicpc.net/workbook/view/8709)  | 투 포인터                 | ⏳ |             |             |             |
-| 12  | [0x15](https://www.acmicpc.net/workbook/view/9063)  | 해시                      | ⏳ |             |             |             |
-| 13  | [0x10](https://www.acmicpc.net/workbook/view/7319)  | 다이나믹 프로그래밍 (DP) | ⏳ |             |             |             |
-| 14  | [0x18](https://www.acmicpc.net/workbook/view/9562)  | 그래프                    | ⏳ |             |             |             |
-| 15  | [0x19](https://www.acmicpc.net/workbook/view/9657)  | 트리                      | ⏳ |             |             |             |
-| 16  | [0x1A](https://www.acmicpc.net/workbook/view/9738)  | 위상 정렬                 | ⏳ |             |             |             |
-| 17  | [0x1B](https://www.acmicpc.net/workbook/view/9907)  | 최소 신장 트리 (MST)      | ⏳ |             |             |             |
-| 18  | [0x1D](https://www.acmicpc.net/workbook/view/10433) | 다익스트라 알고리즘       | ⏳ |             |             |             |
-| 19  | [0x1C](https://www.acmicpc.net/workbook/view/10318) | 플로이드 알고리즘         | ⏳ |             |             |             |
-| 20  | [0x1E](https://www.acmicpc.net/workbook/view/12205) | KMP (문자열 매칭)         | ⏳ |             |             |             |
-| 21  | [0x1F](https://www.acmicpc.net/workbook/view/12649) | 트라이 (Trie)             | ⏳ |             |             |             |
+| No. | 챕터 | 주제 | 한줄 정의 | 상태 | 1회독 | 2회독 | 3회독 |
+|-----|------|------|-----------|------|-------|-------|-------|
+| 01 | [0x05](https://www.acmicpc.net/workbook/view/7309) | 스택 | 지금 처리할 수 없는 것들을 보류하고, 나중에 다시 꺼내는 사고의 기술 | 🔄 | 🥈 🥇 | | |
+| 02 | [0x06](https://www.acmicpc.net/workbook/view/7310) | 큐 |  | ⏳ | | | |
+| 03 | [0x07](https://www.acmicpc.net/workbook/view/7311) | 덱 |  | ⏳ | | | |
+| 04 | [0x09](https://www.acmicpc.net/workbook/view/7313) | BFS |  | ⏳ | | | |
+| 05 | [0x0A](https://www.acmicpc.net/workbook/view/7314) | DFS |  | ⏳ | | | |
+| 06 | [0x0B](https://www.acmicpc.net/workbook/view/7314) | 재귀 |  | ⏳ | | | |
+| 07 | [0x0D](https://www.acmicpc.net/workbook/view/7316) | 시뮬레이션 |  | ⏳ | | | |
+| 08 | [0x0C](https://www.acmicpc.net/workbook/view/7315) | 백트래킹 |  | ⏳ | | | |
+| 09 | [0x11](https://www.acmicpc.net/workbook/view/7320) | 그리디 | | ⏳ | | | |
+| 10 | [0x13](https://www.acmicpc.net/workbook/view/8400) | 이분 탐색 |  | ⏳ | | | |
+| 11 | [0x14](https://www.acmicpc.net/workbook/view/8709) | 투 포인터 | | ⏳ | | | |
+| 12 | [0x15](https://www.acmicpc.net/workbook/view/9063) | 해시 |  | ⏳ | | | |
+| 13 | [0x10](https://www.acmicpc.net/workbook/view/7319) | DP | | ⏳ | | | |
+| 14 | [0x18](https://www.acmicpc.net/workbook/view/9562) | 그래프 |  | ⏳ | | | |
+| 15 | [0x19](https://www.acmicpc.net/workbook/view/9657) | 트리 | | ⏳ | | | |
+| 16 | [0x1A](https://www.acmicpc.net/workbook/view/9738) | 위상 정렬 |  | ⏳ | | | |
+| 17 | [0x1B](https://www.acmicpc.net/workbook/view/9907) | 최소 신장 트리 (MST) |  | ⏳ | | | |
+| 18 | [0x1D](https://www.acmicpc.net/workbook/view/10433) | 다익스트라 | | ⏳ | | | |
+| 19 | [0x1C](https://www.acmicpc.net/workbook/view/10318) | 플로이드 |  | ⏳ | | | |
+| 20 | [0x1E](https://www.acmicpc.net/workbook/view/12205) | KMP | | ⏳ | | | |
+| 21 | [0x1F](https://www.acmicpc.net/workbook/view/12649) | 트라이 (Trie) |  | ⏳ | | | |
 
 ---
 
@@ -86,3 +84,4 @@
 ## 🧑‍💻 Author
 
 > **forwarder1121**
+
