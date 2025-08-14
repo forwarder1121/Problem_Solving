@@ -59,11 +59,11 @@
 | 14 | [0x18](https://www.acmicpc.net/workbook/view/9562) | 그래프 |  | ⏳ | | | |
 | 15 | [0x19](https://www.acmicpc.net/workbook/view/9657) | 트리 | | ⏳ | | | |
 | 16 | [0x1A](https://www.acmicpc.net/workbook/view/9738) | 위상 정렬 |  | ⏳ | | | |
-| 17 | [0x1B](https://www.acmicpc.net/workbook/view/9907) | 최소 신장 트리 (MST) |  | ⏳ | | | |
+| 17 | [0x1B](https://www.acmicpc.net/workbook/view/9907) | 최소 신장 트리 |  | ⏳ | | | |
 | 18 | [0x1D](https://www.acmicpc.net/workbook/view/10433) | 다익스트라 | | ⏳ | | | |
 | 19 | [0x1C](https://www.acmicpc.net/workbook/view/10318) | 플로이드 |  | ⏳ | | | |
 | 20 | [0x1E](https://www.acmicpc.net/workbook/view/12205) | KMP | | ⏳ | | | |
-| 21 | [0x1F](https://www.acmicpc.net/workbook/view/12649) | 트라이 (Trie) |  | ⏳ | | | |
+| 21 | [0x1F](https://www.acmicpc.net/workbook/view/12649) | 트라이  |  | ⏳ | | | |
 
 ---
 
