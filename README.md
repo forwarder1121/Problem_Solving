@@ -46,7 +46,7 @@
 | 01 | [0x05](https://www.acmicpc.net/workbook/view/7309) | 스택 | 지금 처리할 수 없는 것들을 보류하고, 나중에 다시 꺼내는 사고의 기술 | ✅ | 🥈🥇💎 | | |
 | 02 | [0x06](https://www.acmicpc.net/workbook/view/7310) | 큐 | 들어온 순서를 그대로 존중해, 먼저 온 것을 먼저 처리 | ✅ |🚀 | | |
 | 03 | [0x07](https://www.acmicpc.net/workbook/view/7311) | 덱 | 스택과 큐를 모두 일반화한(슈퍼셋) 자료구조 | ✅  | 🥈🥇💎  | | |
-| 04 | [0x09](https://www.acmicpc.net/workbook/view/7313) | BFS | 동시에 퍼져나가는 물결 / 완료 : (1926,2174,1679,1012,2583,2468,6593,2667,2206,7569),2573,2146,16920- 다시 | 🔄 | 🥈 | | |
+| 04 | [0x09](https://www.acmicpc.net/workbook/view/7313) | BFS | 동시에 퍼져나가는 물결 / 완료 : (1926,2174,1679,1012,2583,2468,6593,2667,2206,7569),2573,2146,16920- 다시 | 🔄 | 🥈 🥇| | |
 | 05 | [0x0A](https://www.acmicpc.net/workbook/view/7314) | DFS | 한 갈래를 끝까지 내려가 보는 탐험 | ⏳ | | | |
 | 06 | [0x0B](https://www.acmicpc.net/workbook/view/7314) | 재귀 |  | ⏳ | | | |
 | 07 | [0x0D](https://www.acmicpc.net/workbook/view/7316) | 시뮬레이션 |  | ⏳ | | | |
