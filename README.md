@@ -55,7 +55,7 @@
 | 10 | [0x13](https://www.acmicpc.net/workbook/view/8400) | 이분 탐색 |  | ⏳ | | | |
 | 11 | [0x14](https://www.acmicpc.net/workbook/view/8709) | 투 포인터 | | ⏳ | | | |
 | 12 | [0x15](https://www.acmicpc.net/workbook/view/9063) | 해시 |  | ⏳ | | | |
-| 13 | [0x10](https://www.acmicpc.net/workbook/view/7319) | DP | | ⏳ | 재활용 되는 벽돌 쌓기 : 1463,9095| | |
+| 13 | [0x10](https://www.acmicpc.net/workbook/view/7319) | DP | 재활용 가능한 벽돌 쌓기 : 1463,9095 | ⏳ | | | |
 | 14 | [0x18](https://www.acmicpc.net/workbook/view/9562) | 그래프 |  | ⏳ | | | |
 | 15 | [0x19](https://www.acmicpc.net/workbook/view/9657) | 트리 | | ⏳ | | | |
 | 16 | [0x1A](https://www.acmicpc.net/workbook/view/9738) | 위상 정렬 |  | ⏳ | | | |
