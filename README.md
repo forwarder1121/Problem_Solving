@@ -89,37 +89,57 @@
 ---
 
 ### 참고
+### 🧠 코테 사고법 (Thinking Patterns) 8종 정리
 
-코테 사고법(Thinking Patterns) 8종 정리
+---
 
-1️⃣ 거꾸로 생각하기 (Reverse Thinking)
-→ 출발·도착 반대로 보기
-예: BOJ 17835 면접보는 승범이네, 11779 최소비용 구하기 2(경로복원)
+### 1️⃣ 거꾸로 생각하기 (Reverse Thinking)
+> 출발점·도착점을 반대로 보면 계산이 단순해진다.  
+**예시:** [BOJ 17835 면접보는 승범이네](https://www.acmicpc.net/problem/17835), [BOJ 11779 최소비용 구하기 2](https://www.acmicpc.net/problem/11779)
 
-2️⃣ 대칭성 활용 (Symmetry)
-→ 절반만 계산, 반대편은 동일
-예: BOJ 1213 팰린드롬 만들기, 10942 팰린드롬?
+---
 
-3️⃣ 상태 고정 (Fix a Variable)
-→ 한 변수를 고정시키고 다른 것 탐색
-예: BOJ 1806 부분합 (투포인터), 2470 두 용액
+### 2️⃣ 대칭성 활용 (Symmetry)
+> 절반만 계산하고 반대편은 그대로 적용한다.  
+**예시:** [BOJ 1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213), [BOJ 10942 팰린드롬?](https://www.acmicpc.net/problem/10942)
 
-4️⃣ 경계값 사고 (Boundary / Parametric Thinking)
-→ 정답 대신 경계 조건 찾기
-예: BOJ 1654 랜선 자르기, 2805 나무 자르기, 1300 K번째 수
+---
 
-5️⃣ 전환 (Transformation)
-→ 문제 구조를 다른 형태로 바꾸기
-예: BOJ 1916 최소비용 구하기 (그래프 모델링), 1932 정수 삼각형(DP → 누적합), 2268 구간합 세그트리
+### 3️⃣ 상태 고정 (Fix a Variable)
+> 한 변수를 고정시키고 나머지를 탐색한다.  
+**예시:** [BOJ 1806 부분합](https://www.acmicpc.net/problem/1806), [BOJ 2470 두 용액](https://www.acmicpc.net/problem/2470)
 
-6️⃣ 누적/차이 사고 (Prefix–Diff)
-→ 이미 계산한 값 재활용
-예: BOJ 11659 구간합, 10986 나머지 합, 2042 구간합 구하기
+---
 
-7️⃣ 그래프적 사고 (Graph Modeling)
-→ 관계를 그래프로 모델링
-예: BOJ 1516 게임 개발(위상정렬), 2252 줄 세우기, 2667 단지번호붙이기
+### 4️⃣ 경계값 사고 (Boundary / Parametric Thinking)
+> 정답이 아니라 조건을 만족하는 **최소/최대 경계값**을 찾는다.  
+**예시:** [BOJ 1654 랜선 자르기](https://www.acmicpc.net/problem/1654), [BOJ 2805 나무 자르기](https://www.acmicpc.net/problem/2805), [BOJ 1300 K번째 수](https://www.acmicpc.net/problem/1300)
 
-8️⃣ 역전/역추적 (Reverse Simulation)
-→ 결과에서 거꾸로 복원
-예: BOJ 11779 최소비용 구하기 2(경로 역추적), 13913 숨바꼭질 4, 12852 1로 만들기 2
+---
+
+### 5️⃣ 전환 (Transformation)
+> 문제의 구조를 다른 형태로 바꿔 단순화한다.  
+**예시:** [BOJ 1916 최소비용 구하기](https://www.acmicpc.net/problem/1916), [BOJ 1932 정수 삼각형](https://www.acmicpc.net/problem/1932), [BOJ 2268 구간합 세그트리](https://www.acmicpc.net/problem/2268)
+
+---
+
+### 6️⃣ 누적/차이 사고 (Prefix–Diff)
+> 이미 계산한 값을 재활용해 중복 계산을 피한다.  
+**예시:** [BOJ 11659 구간합](https://www.acmicpc.net/problem/11659), [BOJ 10986 나머지 합](https://www.acmicpc.net/problem/10986), [BOJ 2042 구간합 구하기](https://www.acmicpc.net/problem/2042)
+
+---
+
+### 7️⃣ 그래프적 사고 (Graph Modeling)
+> 관계를 **그래프 구조로 모델링**하면 풀이가 명확해진다.  
+**예시:** [BOJ 1516 게임 개발](https://www.acmicpc.net/problem/1516), [BOJ 2252 줄 세우기](https://www.acmicpc.net/problem/2252), [BOJ 2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
+---
+
+### 8️⃣ 역전 / 역추적 (Reverse Simulation)
+> 결과 상태에서 거꾸로 과정을 복원한다.  
+**예시:** [BOJ 11779 최소비용 구하기 2](https://www.acmicpc.net/problem/11779), [BOJ 13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913), [BOJ 12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
+
+---
+
+📌 **요약 키워드**
+거꾸로 · 대칭성 · 상태고정 · 경계값 · 전환 · 누적차이 · 그래프화 · 역추적
