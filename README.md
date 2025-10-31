@@ -60,7 +60,7 @@
 | 15 | [0x19](https://www.acmicpc.net/workbook/view/9657) | 트리 | | ⏳ | | | |
 | 16 | [0x1A](https://www.acmicpc.net/workbook/view/9738) | 위상 정렬 |  | ⏳ | | | |
 | 17 | [0x1B](https://www.acmicpc.net/workbook/view/9907) | MST |  | ⏳ | | | |
-| 18 | [0x1D](https://www.acmicpc.net/workbook/view/10433) | 다익스트라 | BFS가 동심원처럼 “한 층씩” 퍼져나간다면, 다익스트라는 지형의 고저에 따라 “거리 파동이 굴절되며” 퍼져나가는 모습 - Multi-source Dijkstra / 1753, 1504, 1261, 11779, 1238, 1916, 17835 | 🔄 | | | |
+| 18 | [0x1D](https://www.acmicpc.net/workbook/view/10433) | 다익스트라 | BFS가 동심원처럼 “한 층씩” 퍼져나간다면, 다익스트라는 지형의 고저에 따라 “거리 파동이 굴절되며” 퍼져나가는 모습 - Multi-source Dijkstra / 1753, 1504, 1261, 11779, 1238, 1916, 17835, 20183 | 🔄 | | | |
 | 19 | [0x1C](https://www.acmicpc.net/workbook/view/10318) | 플로이드 - 위셜 |  | ⏳ | | | |
 | 20 | [0x1E](https://www.acmicpc.net/workbook/view/12205) | KMP | | ⏳ | | | |
 | 21 | [0x1F](https://www.acmicpc.net/workbook/view/12649) | 트라이  |  | ⏳ | | | |
