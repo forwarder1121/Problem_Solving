@@ -50,9 +50,9 @@
 | 05 | [0x0A](https://www.acmicpc.net/workbook/view/7290) | DFS | 한 갈래를 끝까지 내려가 보는 탐험 | ⏳ | | | |
 | 06 | [0x0B](https://www.acmicpc.net/workbook/view/7314) | 재귀 |  | ⏳ | | | |
 | 07 | [0x0D](https://www.acmicpc.net/workbook/view/7316) | 시뮬레이션 |  | ⏳ | | | |
-| 08 | [0x0C](https://www.acmicpc.net/workbook/view/7315) | 백트래킹 |  | ⏳ | | | |
-| 09 | [0x11](https://www.acmicpc.net/workbook/view/7320) | 그리디 | | ⏳ | | | |
-| 10 | [0x13](https://www.acmicpc.net/workbook/view/8400) | 이분 탐색 |  | ⏳ | | | |
+| 08 | [0x0C](https://www.acmicpc.net/workbook/view/7315) | 백트래킹 | 가능성의 숲을 내려가며, 막힌 가지는 즉시 잘라 되돌아오는 탐험 | ⏳ | | | |
+| 09 | [0x11](https://www.acmicpc.net/workbook/view/7320) | 그리디 | 지금 가장 맛있는 한 입이, 끝까지도 최선일 때만 통하는 즉결 선택| ⏳ | | | |
+| 10 | [0x13](https://www.acmicpc.net/workbook/view/8400) | 이분 탐색 | 정답을 반씩 접어 가며, 가능한 영역을 절반으로 베어내는 탐색 | ⏳ | | | |
 | 11 | [0x14](https://www.acmicpc.net/workbook/view/8709) | 투 포인터 | | ⏳ | | | |
 | 12 | [0x15](https://www.acmicpc.net/workbook/view/9063) | 해시 |  | ⏳ | | | |
 | 13 | [0x10](https://www.acmicpc.net/workbook/view/7319) | DP | 기억의 재사용 : 1463,9095,2579,1149,11726 | 🔄 | | | |
