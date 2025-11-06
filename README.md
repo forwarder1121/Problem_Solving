@@ -55,7 +55,7 @@
 | 10 | [0x13](https://www.acmicpc.net/workbook/view/8400) | 이분 탐색 | 정답을 반씩 접어 가며, 가능한 영역을 절반으로 베어내는 탐색 | ⏳ | | | |
 | 11 | [0x14](https://www.acmicpc.net/workbook/view/8709) | 투 포인터 | | ⏳ | | | |
 | 12 | [0x15](https://www.acmicpc.net/workbook/view/9063) | 해시 |  | ⏳ | | | |
-| 13 | [0x10](https://www.acmicpc.net/workbook/view/7319) | DP | 기억의 재사용 : 1463,9095,2579,1149,11726 | 🔄 | | | |
+| 13 | [0x10](https://www.acmicpc.net/workbook/view/7319) | DP | 문제를 쪼개 기억하고, 같은 질문엔 같은 답으로 되갚는 메모의 기술. : 1463,9095,2579,1149,11726 | 🔄 | | | |
 | 14 | [0x18](https://www.acmicpc.net/workbook/view/9562) | 그래프 |  | ⏳ | | | |
 | 15 | [0x19](https://www.acmicpc.net/workbook/view/9657) | 트리 | | ⏳ | | | |
 | 16 | [0x1A](https://www.acmicpc.net/workbook/view/9738) | 위상 정렬 |  | ⏳ | | | |
